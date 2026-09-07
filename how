@@ -1,0 +1,4 @@
+<video autoplay loop muted playsinline width="100%">
+  <source id="mp4" src="https://cdn.domain.com/media/banner_arisa.mp4" type="video/mp4">
+  Browser Anda tidak mendukung tag video.
+</video>
